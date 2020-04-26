@@ -158,7 +158,7 @@ class ViewController: UIViewController
     
     private func testFunction()
     {
-        
+        var testStr: String = "Test"
     }
 
 }
